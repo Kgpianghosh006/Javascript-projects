@@ -1,8 +1,5 @@
-body{
-     background-color: aquamarine;
-}
 .container{
-     display: auto center;
+     display: inline-block;
      text-align: center;
      font-size: larger;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
